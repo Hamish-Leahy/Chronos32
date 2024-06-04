@@ -1,6 +1,6 @@
 # Chronos32: A DIY 32-bit CPU on a Breadboard
 
-Welcome to the Chronos32 project! This ambitious endeavor aims to design, build, and program a fully functional 32-bit central processing unit (CPU) using breadboards, wires, and basic electronic components.
+Welcome to the Chronos32 project! This ambitious endeavor aims to design, build, and program a fully functional 32-bit central processing unit (CPU) using breadboards, wires, and basic electronic components. This project is not commercial and is not permitted for comercial use.
 
 ## Project Goals
 
