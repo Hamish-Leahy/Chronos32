@@ -2,6 +2,8 @@
 
 Welcome to the Chronos32 project! This ambitious endeavor aims to design, build, and program a fully functional 32-bit central processing unit (CPU) using breadboards, wires, and basic electronic components. This project is not commercial and is not permitted for comercial use.
 
+Updates need to be made from this part of the document down 
+
 ## Project Goals
 
 1. **Educational:** To provide a hands-on learning experience for electronics enthusiasts and aspiring computer engineers.
